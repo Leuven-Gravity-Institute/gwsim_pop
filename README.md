@@ -3,7 +3,7 @@
 [![Python CI](https://github.com/Leuven-Gravity-Institute/gwsim_pop/actions/workflows/CI.yml/badge.svg)](https://github.com/Leuven-Gravity-Institute/gwsim_pop/actions/workflows/CI.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Leuven-Gravity-Institute/gwsim_pop/main.svg)](https://results.pre-commit.ci/latest/github/Leuven-Gravity-Institute/gwsim_pop/main)
 [![Documentation Status](https://github.com/Leuven-Gravity-Institute/gwsim_pop/actions/workflows/documentation.yml/badge.svg)](https://leuven-gravity-institute.github.io/gwsim_pop/)
-[![codecov](https://codecov.io/gh/isaac-cf-wong/python-package-template/graph/badge.svg?token=COF8341N60)](https://codecov.io/gh/isaac-cf-wong/python-package-template)
+[![codecov](https://codecov.io/gh/leuven-gravity-institute/gwsim_pop/graph/badge.svg?token=Vwf7NYTHCm)](https://codecov.io/gh/leuven-gravity-institute/gwsim_pop)
 [![PyPI Version](https://img.shields.io/pypi/v/gwsim_pop)](https://pypi.org/project/gwsim_pop/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/gwsim_pop)](https://pypi.org/project/gwsim_pop/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
