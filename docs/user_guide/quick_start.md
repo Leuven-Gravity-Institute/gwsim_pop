@@ -1,6 +1,6 @@
 # Quick Start
 
-Welcome to the **gwsim_pop**!
+Welcome to **gwsim_pop**!
 This is a Python package for simulating populations of gravitational-wave sources.
 
 ## Next Steps
