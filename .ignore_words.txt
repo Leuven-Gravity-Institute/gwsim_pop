@@ -25,6 +25,7 @@ envlist
 envpython
 getrecursionlimit
 glightbox
+gwsim
 hotfixes
 htmlcov
 inlinevar
