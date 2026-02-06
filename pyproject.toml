@@ -3,9 +3,9 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "python_package_template"
-authors = [{ name = "Isaac C. F. Wong", email = "isaac.cf.wong@gmail.com" }]
-description = "A GitHub template repository for a Python package"
+name = "gwsim_pop"
+authors = [{ name = "Isaac C. F. Wong"}]
+description = "A python package for simulating populations of gravitational-wave sources."
 readme = "README.md"
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -52,20 +52,20 @@ docs = [
 ]
 
 [project.scripts]
-python_package_template = "python_package_template.cli.main:app"
+gwsim_pop = "gwsim_pop.cli.main:app"
 
 [project.urls]
-Documentation = "https://isaac-cf-wong.github.io/python-package-template"
-Source = "https://github.com/isaac-cf-wong/python-package-template"
-Tracker = "https://github.com/isaac-cf-wong/python-package-template/issues"
-Home = "https://github.com/isaac-cf-wong/python-package-template"
-"Release Notes" = "https://github.com/isaac-cf-wong/python-package-template/releases"
+Documentation = "https://leuven-gravity-institute.github.io/gwsim_pop/"
+Source = "https://github.com/Leuven-Gravity-Institute/gwsim_pop"
+Tracker = "https://github.com/Leuven-Gravity-Institute/gwsim_pop/issues"
+Home = "https://github.com/Leuven-Gravity-Institute/gwsim_pop"
+"Release Notes" = "https://github.com/Leuven-Gravity-Institute/gwsim_pop/releases"
 
 [tool.hatch.version]
 source = "vcs"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/python_package_template"]
+packages = ["src/gwsim_pop"]
 
 [tool.bandit]
 exclude_dirs = ["build", "dist", "tests", "scripts"]
