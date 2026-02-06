@@ -1,6 +1,6 @@
-# Python package template
+# gwsim_pop
 
-This is the documentation for using this Python package template.
+A Python package for simulating populations of gravitational wave sources.
 
 ## Next Steps
 
