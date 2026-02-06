@@ -5,7 +5,6 @@ from __future__ import annotations
 import pkgutil
 
 import pytest
-
 import python_package_template
 
 
